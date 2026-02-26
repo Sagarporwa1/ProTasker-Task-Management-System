@@ -97,4 +97,3 @@ src/
 3. Click **Deploy**.
 
 ---
-Built with ❤️ for Aiking Solution.
