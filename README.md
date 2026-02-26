@@ -32,7 +32,6 @@ A premium, full-stack Task Management application built as a technical assignmen
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/aiking-task-manager.git
-   cd aiking-task-manager
    ```
 
 2. **Install dependencies**:
